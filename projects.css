@@ -20,7 +20,9 @@ a {
 
 .site-title {
     color: #9e363a;
+    font-size: 28px;
 }
+
 /* Projects-Section */
 .projects{
     font-size: 70px;
